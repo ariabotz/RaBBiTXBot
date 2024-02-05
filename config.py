@@ -16,7 +16,7 @@ LOGGER_ID = int(getenv("LOGGER_ID", "4152241957")) # LOGGER_ID fill here your lo
 HANDLER = os.getenv("HANDLER", ".") # HANDLER fill here your command trigger
 
 # DATABASES ~ mongodb.com
-MONGO_URI = os.getenv("MONGO_URI", "mongodb+srv://ariaputrapratamaaa:<password>@cluster0.lksiqox.mongodb.net/") # MONGO_URI fill here mongodb database url get it by mongodb.com
+MONGO_URI = os.getenv("MONGO_URI", "mongodb+srv://ariaputrapratamaaa:Helenasyg3@@cluster0.lksiqox.mongodb.net/") # MONGO_URI fill here mongodb database url get it by mongodb.com
 
 # PORN ~ spam
 ALLOW_PORN = getenv("ALLOW_PORN", True) # u can enable and disable porn spam from here 
