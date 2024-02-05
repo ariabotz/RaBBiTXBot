@@ -8,7 +8,7 @@ API_ID = int(getenv("API_ID", "25927541")) # API_ID get it from my.telegram.org
 API_HASH = os.getenv("API_HASH", "755b0d5e86f5469696fdd1abd0013c69") # API_HASH get it from my.telegram.org
 
 # SESSIONS ~ Telegram 
-SESSION = os.getenv("SESSION", "1BVtsOGcBuxyLole1-SRZsV00tuyFrC9EN1gp789RWgghrcg2kHbWJTKbEjW7e9zM5nQJL3LLihdJsZRPWWDNMITD031EsM4ilvIMn1tV3BnmEUoMVZLbSbPzfNRCqo5ToKd1FwkwIO1rU1IqO24uePE74dNQV1hNsqPZQg-af_k6Nrm7jDiDVh92cL33dHIq4pJMQoaUQlgWpDsCD_NIe_DFW1qSXciKr6w59oWkZ773AdW9eSOcvnEfCsfnTlDd3r7n6U_uKuVSQXuOsB33hlWNw56OmghoccPhpNmS8v0OLYMFIGfwtnG7WGT1uVn-mKYEbZvWumvpqye7CiAyUgamppq79D4=") # SESSION get it by @RaBBiTSessionBot on Telegram 
+SESSION = os.getenv("SESSION", "BQGLn3UAJOpgIQJqi5bUxPXwhLHfdrz_7m862YzeGibTOlE18tC8GXwIHc8gIqjARsv5kku78AyOVEwhhB9YOK9XkF1-8uvw9HqK22sb0EZZu4qs1A5hhfuxDZziJyRTSACAxgMB8In-cdEgbDPQx32B5OHzNzG1j7JrMoklb2iPQVw2cpDEa3LWxicxfQIZ964k2Z97C4I8wZc8cncr4dHAVIsI6Yi-nYotLjCLVI_9UBe-cX4tPwu_Hih878C3dDSpuUICB7pFxgfLFSUHyvGgTucOP2y2Sj07f53mQzd_Gi_I1qWjhLNGjMqlTSV1IBj9f4pXTGnRv7ZMaxjfoomV6zj6LgAAAAGQvnoQAA") # SESSION get it by @RaBBiTSessionBot on Telegram 
 TOKEN = os.getenv("TOKEN", "6954728463:AAHebsmzoUZV2EROpxabM9r7nHJX1Y1IuxA") # BOT_TOKEN get it by @BotFather on Telegram 
 LOGGER_ID = int(getenv("LOGGER_ID", "4152241957")) # LOGGER_ID fill here your logs telegram group id
 
