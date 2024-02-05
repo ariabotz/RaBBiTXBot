@@ -10,7 +10,7 @@ API_HASH = os.getenv("API_HASH", "755b0d5e86f5469696fdd1abd0013c69") # API_HASH 
 # SESSIONS ~ Telegram 
 SESSION = os.getenv("SESSION", "1BVtsOGcBuxyLole1-SRZsV00tuyFrC9EN1gp789RWgghrcg2kHbWJTKbEjW7e9zM5nQJL3LLihdJsZRPWWDNMITD031EsM4ilvIMn1tV3BnmEUoMVZLbSbPzfNRCqo5ToKd1FwkwIO1rU1IqO24uePE74dNQV1hNsqPZQg-af_k6Nrm7jDiDVh92cL33dHIq4pJMQoaUQlgWpDsCD_NIe_DFW1qSXciKr6w59oWkZ773AdW9eSOcvnEfCsfnTlDd3r7n6U_uKuVSQXuOsB33hlWNw56OmghoccPhpNmS8v0OLYMFIGfwtnG7WGT1uVn-mKYEbZvWumvpqye7CiAyUgamppq79D4=") # SESSION get it by @RaBBiTSessionBot on Telegram 
 TOKEN = os.getenv("TOKEN", "6954728463:AAHebsmzoUZV2EROpxabM9r7nHJX1Y1IuxA") # BOT_TOKEN get it by @BotFather on Telegram 
-LOGGER_ID = int(getenv("LOGGER_ID", "")) # LOGGER_ID fill here your logs telegram group id
+LOGGER_ID = int(getenv("LOGGER_ID", "4152241957")) # LOGGER_ID fill here your logs telegram group id
 
 # HANDLER ~ Telegram 
 HANDLER = os.getenv("HANDLER", ".") # HANDLER fill here your command trigger
